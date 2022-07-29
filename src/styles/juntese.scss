@@ -1,0 +1,57 @@
+.juntese {
+  * {
+    position: absolute;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+  }
+}
+
+.juntese-title {
+  width: 167px;
+  height: 40px;
+  left: 600px;
+  top: 3833px;
+  font-size: 16px;
+  color: #1a78fd;
+}
+
+.juntese-subtitle {
+  width: 276px;
+  height: 40px;
+  left: 545px;
+  top: 3890px;
+  font-size: 36px;
+  color: #454242;
+}
+
+.juntese-desc {
+  width: 401px;
+  height: 150px;
+  left: 483px;
+  top: 3961px;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #6d7989;
+}
+
+.juntese-button {
+  width: 261px;
+  height: 50px;
+  left: 553px;
+  top: 4081px;
+  background: #49bf6a;
+  border-radius: 25px;
+}
+
+.juntese-button-text {
+  width: 216px;
+  height: 22px;
+  left: 22.5px;
+  top: 14px;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+}

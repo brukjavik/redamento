@@ -1,0 +1,86 @@
+b {
+  font-weight: 700;
+}
+
+.motivational-quote {
+  /* Domine já a Redação do ENEM! */
+
+  position: absolute;
+  width: 369px;
+  height: 201px;
+  left: 100px;
+  top: 300px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 67px;
+
+  color: #ffffff;
+}
+
+.image {
+  position: absolute;
+  width: 602px;
+  height: 317px;
+  left: 697px;
+  top: 350px;
+}
+
+.description {
+  position: absolute;
+  width: 570px;
+  height: 132px;
+  left: 100px;
+  top: 550px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 22px;
+  white-space: nowrap;
+
+  color: #ffffff;
+
+  p {
+    color: #ffffff;
+
+    b {
+      color: #ffffff;
+    }
+  }
+}
+
+.text {
+  position: absolute;
+  width: 151px;
+  height: 22px;
+  left: 155px;
+  top: 734px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.rectangle {
+  position: absolute;
+  width: 261px;
+  height: 50px;
+  left: 100px;
+  top: 720px;
+
+  background: #49bf6a;
+  border-radius: 25px;
+}
+
+.little-bold {
+  font-weight: 700;
+}

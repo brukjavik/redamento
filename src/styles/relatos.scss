@@ -1,0 +1,102 @@
+#relatos-circle-left {
+  left: 44px;
+  top: 3413px;
+}
+
+#relatos-circle-right {
+  left: 1271px;
+  top: 3413px;
+}
+
+#relatos-arrow-left {
+  left: 56px;
+  top: 3426px;
+}
+
+#relatos-arrow-right {
+  left: 1288px;
+  top: 3426px;
+}
+
+#dep-left {
+  left: 199px;
+  top: 3244px;
+}
+
+#dep-right {
+  left: 901px;
+  top: 3244px;
+}
+
+.relatos {
+  * {
+    position: absolute;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+  }
+}
+
+.relatos-title {
+  width: 69px;
+  height: 19px;
+  left: 100px;
+  top: 2887px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #1a78fd;
+}
+
+.relatos-subtitle {
+  width: 300px;
+  height: 88px;
+  left: 100px;
+  top: 2923px;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #454242;
+}
+
+.relatos-desc {
+  width: 401px;
+  height: 96px;
+  left: 99px;
+  top: 3027px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  /* or 178% */
+
+  color: #6d7989;
+}
+
+.relatos-circle {
+  width: 52px;
+  height: 50px;
+  border-radius: 50%;
+  background: #1a78fd;
+}
+
+.dep-normal {
+  width: 270px;
+  height: 370px;
+
+  background: #529aff;
+  border-radius: 22px;
+}
+
+.dep-centro {
+  width: 369px;
+  height: 505px;
+  left: 500px;
+  top: 3176.17px;
+
+  background: #1a78fd;
+  border-radius: 22px;
+}
